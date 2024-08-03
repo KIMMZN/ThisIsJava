@@ -1,4 +1,4 @@
-package chs02.sec08;
+package ch02.sec08;
 
 public class CastingExample {
 
